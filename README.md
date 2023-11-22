@@ -1,16 +1,10 @@
 # azeala_calculator
 
-A new Flutter project.
+Hi everyone, 
+This is the first completed project that I am making public.
+I am a newbie to Flutter development 
+I would like to welcome you join me on the journey of becoming the best in Africa
 
-## Getting Started
+(https://github.com/thetechracer/azeala_calculator/assets/113357280/d23c2283-2c37-4973-ae88-7a6931d90f0e)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
